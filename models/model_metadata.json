@@ -1,0 +1,28 @@
+{
+  "class_names": [
+    "Achaemenid architecture",
+    "Baroque architecture",
+    "Deconstructivism",
+    "Novelty architecture",
+    "Queen Anne architecture",
+    "Tudor Revival architecture"
+  ],
+  "num_classes": 6,
+  "img_size": 224,
+  "imagenet_mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "imagenet_std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "model_architecture": "resnet50",
+  "test_accuracy": 0.8880778588807786,
+  "benchmark": {
+    "mean_ms_per_image": 3.603101521730423,
+    "std_ms_per_image": 1.632386773876899
+  }
+}
