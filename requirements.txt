@@ -1,0 +1,36 @@
+# Tested with Python 3.11.4
+# Install PyTorch first from https://pytorch.org/get-started/locally/
+# choosing the command that matches your CUDA version (or CPU-only). Example:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# Then install the rest:
+#   pip install -r requirements.txt
+
+torch>=2.2
+torchvision>=0.17
+numpy
+matplotlib
+seaborn
+pillow
+scikit-learn
+tqdm
+# Core RAG stack
+langchain-core
+langchain-openai
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+openai
+chromadb
+sentence-transformers
+
+# CV model (Part B)
+torch
+torchvision
+pillow
+numpy
+
+# Config / env
+python-dotenv
+
+# Streamlit app
+streamlit
