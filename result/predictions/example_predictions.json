@@ -1,0 +1,322 @@
+[
+  {
+    "image": "443_800px-Third_Railroad_Station%2C_Andover_MA.jpg",
+    "predicted_class": "Deconstructivism",
+    "confidence": 0.7528442144393921,
+    "top_k": [
+      [
+        "Deconstructivism",
+        0.7528442144393921
+      ],
+      [
+        "Tudor Revival architecture",
+        0.13813376426696777
+      ],
+      [
+        "Novelty architecture",
+        0.05826885253190994
+      ]
+    ],
+    "inference_time_ms": 63.0
+  },
+  {
+    "image": "2661_lossy-page1-800px-Seattle_Music_Project_by_architect_Frank_O._Gehry%2C_Seattle%2C_Washington_-_photo_by_Carol_M_Highsmith_-_loc_04500u.tif.jpg",
+    "predicted_class": "Deconstructivism",
+    "confidence": 0.9987753033638,
+    "top_k": [
+      [
+        "Deconstructivism",
+        0.9987753033638
+      ],
+      [
+        "Novelty architecture",
+        0.0011125843739137053
+      ],
+      [
+        "Achaemenid architecture",
+        5.650835009873845e-05
+      ]
+    ],
+    "inference_time_ms": 64.0
+  },
+  {
+    "image": "1746_800px-%22A_Big_Nandi_%28Bull%29_inBrihadisvara_Temple_of_Gangaikonda_Cholapuram%22.JPG",
+    "predicted_class": "Novelty architecture",
+    "confidence": 0.99954754114151,
+    "top_k": [
+      [
+        "Novelty architecture",
+        0.99954754114151
+      ],
+      [
+        "Achaemenid architecture",
+        0.0003878947754856199
+      ],
+      [
+        "Deconstructivism",
+        3.535755240591243e-05
+      ]
+    ],
+    "inference_time_ms": 64.0
+  },
+  {
+    "image": "723_572px-San_Rocco_Venezia_%28Facciata%29.jpg",
+    "predicted_class": "Baroque architecture",
+    "confidence": 0.9998045563697815,
+    "top_k": [
+      [
+        "Baroque architecture",
+        0.9998045563697815
+      ],
+      [
+        "Achaemenid architecture",
+        0.00015195453306660056
+      ],
+      [
+        "Queen Anne architecture",
+        1.5266008631442674e-05
+      ]
+    ],
+    "inference_time_ms": 60.0
+  },
+  {
+    "image": "012629.jpg",
+    "predicted_class": "Tudor Revival architecture",
+    "confidence": 0.7718058228492737,
+    "top_k": [
+      [
+        "Tudor Revival architecture",
+        0.7718058228492737
+      ],
+      [
+        "Queen Anne architecture",
+        0.2273496687412262
+      ],
+      [
+        "Deconstructivism",
+        0.000508357654325664
+      ]
+    ],
+    "inference_time_ms": 59.0
+  },
+  {
+    "image": "254_800px-CyrustheGreatTomb_22057.jpg",
+    "predicted_class": "Achaemenid architecture",
+    "confidence": 0.9998857975006104,
+    "top_k": [
+      [
+        "Achaemenid architecture",
+        0.9998857975006104
+      ],
+      [
+        "Deconstructivism",
+        7.511048897868022e-05
+      ],
+      [
+        "Novelty architecture",
+        2.639995545905549e-05
+      ]
+    ],
+    "inference_time_ms": 60.0
+  },
+  {
+    "image": "007087.jpg",
+    "predicted_class": "Deconstructivism",
+    "confidence": 0.9999171495437622,
+    "top_k": [
+      [
+        "Deconstructivism",
+        0.9999171495437622
+      ],
+      [
+        "Novelty architecture",
+        6.0592530644498765e-05
+      ],
+      [
+        "Tudor Revival architecture",
+        9.15334931050893e-06
+      ]
+    ],
+    "inference_time_ms": 10.0
+  },
+  {
+    "image": "003768.jpg",
+    "predicted_class": "Deconstructivism",
+    "confidence": 0.9516779184341431,
+    "top_k": [
+      [
+        "Deconstructivism",
+        0.9516779184341431
+      ],
+      [
+        "Baroque architecture",
+        0.020405028015375137
+      ],
+      [
+        "Achaemenid architecture",
+        0.0189291350543499
+      ]
+    ],
+    "inference_time_ms": 9.0
+  },
+  {
+    "image": "014062.jpg",
+    "predicted_class": "Tudor Revival architecture",
+    "confidence": 0.8394408822059631,
+    "top_k": [
+      [
+        "Tudor Revival architecture",
+        0.8394408822059631
+      ],
+      [
+        "Deconstructivism",
+        0.0986013412475586
+      ],
+      [
+        "Novelty architecture",
+        0.053672950714826584
+      ]
+    ],
+    "inference_time_ms": 9.0
+  },
+  {
+    "image": "4330_401px-All_Saints_Church_in_Vsehsvyatskoe_04.jpg",
+    "predicted_class": "Baroque architecture",
+    "confidence": 0.9911850094795227,
+    "top_k": [
+      [
+        "Baroque architecture",
+        0.9911850094795227
+      ],
+      [
+        "Queen Anne architecture",
+        0.0063963099382817745
+      ],
+      [
+        "Tudor Revival architecture",
+        0.0015758604276925325
+      ]
+    ],
+    "inference_time_ms": 13.0
+  },
+  {
+    "image": "010864.jpg",
+    "predicted_class": "Novelty architecture",
+    "confidence": 0.9983533620834351,
+    "top_k": [
+      [
+        "Novelty architecture",
+        0.9983533620834351
+      ],
+      [
+        "Achaemenid architecture",
+        0.000840049353428185
+      ],
+      [
+        "Deconstructivism",
+        0.0005650414386764169
+      ]
+    ],
+    "inference_time_ms": 9.0
+  },
+  {
+    "image": "014398.jpg",
+    "predicted_class": "Queen Anne architecture",
+    "confidence": 0.93129563331604,
+    "top_k": [
+      [
+        "Queen Anne architecture",
+        0.93129563331604
+      ],
+      [
+        "Tudor Revival architecture",
+        0.06869301199913025
+      ],
+      [
+        "Novelty architecture",
+        4.7610101319151e-06
+      ]
+    ],
+    "inference_time_ms": 20.0
+  },
+  {
+    "image": "834_800px-Takht-e-Jamshid.JPG",
+    "predicted_class": "Achaemenid architecture",
+    "confidence": 0.999975323677063,
+    "top_k": [
+      [
+        "Achaemenid architecture",
+        0.999975323677063
+      ],
+      [
+        "Deconstructivism",
+        2.247633528895676e-05
+      ],
+      [
+        "Tudor Revival architecture",
+        9.101032105718332e-07
+      ]
+    ],
+    "inference_time_ms": 14.0
+  },
+  {
+    "image": "000200.jpg",
+    "predicted_class": "Achaemenid architecture",
+    "confidence": 0.9999947547912598,
+    "top_k": [
+      [
+        "Achaemenid architecture",
+        0.9999947547912598
+      ],
+      [
+        "Baroque architecture",
+        4.688768967753276e-06
+      ],
+      [
+        "Tudor Revival architecture",
+        4.395364499032439e-07
+      ]
+    ],
+    "inference_time_ms": 10.99
+  },
+  {
+    "image": "1809_800px-Warrick_House_from_NE_2.JPG",
+    "predicted_class": "Queen Anne architecture",
+    "confidence": 0.9148340225219727,
+    "top_k": [
+      [
+        "Queen Anne architecture",
+        0.9148340225219727
+      ],
+      [
+        "Tudor Revival architecture",
+        0.08487241715192795
+      ],
+      [
+        "Deconstructivism",
+        0.000286293652607128
+      ]
+    ],
+    "inference_time_ms": 19.99
+  },
+  {
+    "image": "1244_449px-Santo_Stefano_Maggiore_%28Milano%29.JPG",
+    "predicted_class": "Baroque architecture",
+    "confidence": 0.997871994972229,
+    "top_k": [
+      [
+        "Baroque architecture",
+        0.997871994972229
+      ],
+      [
+        "Achaemenid architecture",
+        0.0010177675867453218
+      ],
+      [
+        "Tudor Revival architecture",
+        0.0007238331600092351
+      ]
+    ],
+    "inference_time_ms": 15.0
+  }
+]
